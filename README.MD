@@ -13,7 +13,7 @@ running the code which are listed as bellow:
 2. Then, scroll down until you reach the end of the page.
 3. Then, copy all the page content using ``CTRL+C`` and paste it in .txt file named **USNews.txt** using ``CTRL+V``.
 
-Now, run the program and the results will be available a CVS file named **results.csv**.
+Now, run the program and the results will be available a CSV file named **results.csv**.
 
 ## Dependencies
 [JDK17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) is used to write the code.
